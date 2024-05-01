@@ -2,33 +2,28 @@
 
 class Program
 {
-    public static void Main(string[] args)
+    static void Main(string[] args)
     {
-        // Prompt the users for length and width of a room feet
-        // Create a method that accepth the values
-        // and then compute the cost of painiting the room
+        // prompt users for a number of miles
+        // pass the value and converts the value to kilometers
+        // A mile is 1.60934 kilometers
+        const double ONE_MILE = 1.60934;
 
-        const int Height = 9;
+        Console.WriteLine("Enter the number of miles:");
+        double miles =Convert.ToDouble(Console.ReadLine());
+        double kilometers;
+        kilometers= ConvertMilesToKilometers(miles, ONE_MILE);
+        Console.WriteLine("The kilometer is {0}", kilometers);
 
-        Console.WriteLine("Enter the length of a room: ");
-        int Length = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine("Enter the width of a room: ");
-        int Width = Convert.ToInt32(Console.ReadLine());
-
-        PaintingEstimate(Length, Width, Height);
 
     }
-  
-    static string PaintingEstimate(int Length, int Width, int Height) {
-        int Square = 2 * (Length * Width + Length * Height + Width * Height);
-        string CostOfPainting = (6 * Square).ToString("C");
 
-        Console.WriteLine(CostOfPainting);
-        Console.ReadLine();
-        return CostOfPainting;
+    private static double ConvertMilesToKilometers(double miles, double ONE_MILE) {
+        double kilometers = ONE_MILE * miles;
+        return kilometers;
     }
 
-    
+
+
 }
 
