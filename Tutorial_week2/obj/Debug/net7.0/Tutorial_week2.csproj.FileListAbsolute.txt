@@ -1,0 +1,15 @@
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/bin/Debug/net7.0/Tutorial_week2
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/bin/Debug/net7.0/Tutorial_week2.deps.json
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/bin/Debug/net7.0/Tutorial_week2.runtimeconfig.json
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/bin/Debug/net7.0/Tutorial_week2.dll
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/bin/Debug/net7.0/Tutorial_week2.pdb
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.csproj.AssemblyReference.cache
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.AssemblyInfoInputs.cache
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.AssemblyInfo.cs
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.csproj.CoreCompileInputs.cache
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.dll
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/refint/Tutorial_week2.dll
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.pdb
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/Tutorial_week2.genruntimeconfig.cache
+/Users/hyunsoo/Projects/Tutorial_week2/Tutorial_week2/obj/Debug/net7.0/ref/Tutorial_week2.dll
