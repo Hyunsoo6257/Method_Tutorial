@@ -1,0 +1,15 @@
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/bin/Debug/net7.0/OOP_Parameters_week2
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/bin/Debug/net7.0/OOP_Parameters_week2.deps.json
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/bin/Debug/net7.0/OOP_Parameters_week2.runtimeconfig.json
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/bin/Debug/net7.0/OOP_Parameters_week2.dll
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/bin/Debug/net7.0/OOP_Parameters_week2.pdb
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.csproj.AssemblyReference.cache
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.AssemblyInfoInputs.cache
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.AssemblyInfo.cs
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.csproj.CoreCompileInputs.cache
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.dll
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/refint/OOP_Parameters_week2.dll
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.pdb
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/OOP_Parameters_week2.genruntimeconfig.cache
+/Users/hyunsoo/Desktop/[IFN 556] OOP/Practice/OOP_Parameters_week2/OOP_Parameters_week2/obj/Debug/net7.0/ref/OOP_Parameters_week2.dll
